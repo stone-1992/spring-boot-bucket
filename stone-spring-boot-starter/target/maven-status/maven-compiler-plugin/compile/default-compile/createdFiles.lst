@@ -1,0 +1,7 @@
+com\stone\config\AspectLogAutoConfigure.class
+com\stone\config\AspectLogProperties.class
+com\stone\config\ExampleAutoConfigure.class
+com\stone\config\ExampleServiceProperties.class
+com\stone\service\ExampleService.class
+com\stone\face\AspectLog.class
+META-INF\spring-configuration-metadata.json

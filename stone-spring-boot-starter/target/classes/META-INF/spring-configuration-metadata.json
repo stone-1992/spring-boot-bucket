@@ -1,0 +1,39 @@
+{
+  "groups": [
+    {
+      "name": "aspect.log",
+      "type": "com.stone.config.AspectLogProperties",
+      "sourceType": "com.stone.config.AspectLogProperties"
+    },
+    {
+      "name": "example.service",
+      "type": "com.stone.config.ExampleServiceProperties",
+      "sourceType": "com.stone.config.ExampleServiceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "aspect.log.enable",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.stone.config.AspectLogProperties",
+      "defaultValue": false
+    },
+    {
+      "name": "example.service.enable",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.stone.config.ExampleServiceProperties",
+      "defaultValue": false
+    },
+    {
+      "name": "example.service.prefix",
+      "type": "java.lang.String",
+      "sourceType": "com.stone.config.ExampleServiceProperties"
+    },
+    {
+      "name": "example.service.suffix",
+      "type": "java.lang.String",
+      "sourceType": "com.stone.config.ExampleServiceProperties"
+    }
+  ],
+  "hints": []
+}

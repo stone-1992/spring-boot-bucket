@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41418d68-13b1-4c1e-b93e-1073bda61c21" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Stone/software/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Stone\software\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hfmqjzNx9gKPzOwu5r8drXD526" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/stone-spring-boot-designpattern/src/main/java/com/stone/singleton" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.stone.singleton" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workspace\spring-boot-bucket\stone-spring-boot-designpattern\src\main\java\com\stone\singleton" />
+      <recent name="D:\1\work\spring-boot-bucket\stone-spring-boot-zhcx\src\main\java\com\stone\modules\service\crawler" />
+      <recent name="D:\1\work\spring-boot-bucket\stone-spring-boot-zhcx\src\main\resources" />
+      <recent name="D:\1\work\spring-boot-bucket\stone-spring-boot-test\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.stone.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\1\work\spring-boot-bucket\stone-spring-boot-zhcx\src\main\resources\com.stone.modules.api.mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SingletonRun">
+    <configuration name="SingletonRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stone.singleton.SingletonRun" />
+      <module name="stone-spring-boot-designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stone.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoneApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="stone-spring-boot-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.stone.StoneApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZhcxApiscanServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="stone-spring-boot-zhcx" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.stone.ZhcxApiscanServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SingletonRun" />
+        <item itemvalue="Spring Boot.StoneApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41418d68-13b1-4c1e-b93e-1073bda61c21" name="Default Changelist" comment="" />
+      <created>1600410713188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600410713188</updated>
+      <workItem from="1600410716193" duration="9838000" />
+      <workItem from="1600654044532" duration="34364000" />
+      <workItem from="1600766758654" duration="493000" />
+      <workItem from="1600767267074" duration="444000" />
+      <workItem from="1600769904302" duration="160000" />
+      <workItem from="1600770080802" duration="11108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1600759856444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1600759856444" />
+    <state x="618" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600823098191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="618" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600823098191" />
+    <state x="765" y="227" key="#com.intellij.ide.util.MemberChooser" timestamp="1600737438558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="227" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600737438557" />
+    <state x="601" y="390" width="857" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600829068404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="390" width="857" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1600829068404" />
+    <state x="484" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600680427329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="484" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600680427329" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600678938612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600678938612" />
+    <state width="487" height="466" key="DebuggerActiveHint" timestamp="1600744446937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="487" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1600744446937" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1600670141342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600670141342" />
+    <state width="1879" height="339" key="GridCell.Tab.0.bottom" timestamp="1600854558207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600854558207" />
+    <state width="1879" height="339" key="GridCell.Tab.0.center" timestamp="1600854558207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="339" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600854558207" />
+    <state width="1879" height="339" key="GridCell.Tab.0.left" timestamp="1600854558207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="339" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600854558207" />
+    <state width="1879" height="339" key="GridCell.Tab.0.right" timestamp="1600854558207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="339" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600854558207" />
+    <state width="1879" height="339" key="GridCell.Tab.1.bottom" timestamp="1600854558207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600854558207" />
+    <state width="1879" height="339" key="GridCell.Tab.1.center" timestamp="1600854558207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="339" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600854558207" />
+    <state width="1879" height="339" key="GridCell.Tab.1.left" timestamp="1600854558207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="339" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600854558207" />
+    <state width="1879" height="339" key="GridCell.Tab.1.right" timestamp="1600854558207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="339" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600854558207" />
+    <state width="1879" height="339" key="GridCell.Tab.2.bottom" timestamp="1600762377027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="339" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600762377027" />
+    <state width="1879" height="339" key="GridCell.Tab.2.center" timestamp="1600762377027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="339" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600762377027" />
+    <state width="1879" height="339" key="GridCell.Tab.2.left" timestamp="1600762377026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="339" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600762377026" />
+    <state width="1879" height="339" key="GridCell.Tab.2.right" timestamp="1600762377027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="339" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600762377027" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1600413296704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600413296704" />
+    <state x="491" y="165" key="SettingsEditor" timestamp="1600769946951">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="491" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600769946951" />
+    <state x="658" y="262" width="629" height="516" key="find.popup" timestamp="1600680907716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="262" width="629" height="516" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600680907716" />
+    <state x="334" y="147" key="new project wizard" timestamp="1600827368754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="147" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1600827368754" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1600659160055">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600659160055" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600679316935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600679316935" />
+  </component>
+</project>

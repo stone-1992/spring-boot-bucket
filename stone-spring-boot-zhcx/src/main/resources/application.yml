@@ -1,0 +1,33 @@
+spring:
+  servlet:
+    multipart:
+      max-file-size: 10MB
+  mvc:
+    servlet:
+      path: /apiscan
+  datasource:
+    url: jdbc:mysql://172.16.102.107:3388/zhcx_business_platform?zeroDateTimeBehavior=convertToNull&useUnicode=true&useSSL=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    username: test
+    password: test123
+    driver-class-name: com.mysql.jdbc.Driver
+logging:
+  level:
+    cn:
+      edu:
+        hfut:
+          dmic: WARN
+mybatis-plus:
+  global-config:
+    db-config:
+      id-type: auto
+      field-strategy: not_empty
+      #驼峰下划线转换
+      column-underline: true
+      #逻辑删除配置
+      logic-delete-value: 0
+      logic-not-delete-value: 1
+      db-type: mysql
+    refresh: false
+  configuration:
+    map-underscore-to-camel-case: true
+    cache-enabled: false
