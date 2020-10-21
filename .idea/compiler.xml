@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="stone-spring-boot-test" />
-        <module name="stone-spring-boot-starter" />
-        <module name="stone-spring-boot-designpattern" />
+        <module name="stone-spring-boot-redis" />
         <module name="stone-spring-boot-zhcx" />
+        <module name="stone-spring-boot-activemq" />
+        <module name="stone-spring-boot-test" />
+        <module name="stone-spring-boot-solr" />
+        <module name="stone-spring-boot-designpattern" />
+        <module name="stone-spring-boot-starter" />
       </profile>
     </annotationProcessing>
   </component>

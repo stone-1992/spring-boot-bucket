@@ -1,6 +1,6 @@
 package com.stone.singleton;
 
-import com.stone.singleton.ins.SingletonEHan;
+import com.stone.singleton.ins.SingletonEnum;
 
 /**
  * @author Stone
@@ -10,6 +10,7 @@ import com.stone.singleton.ins.SingletonEHan;
  */
 public class SingletonRun {
     public static void main(String[] args) {
-        SingletonEHan instance = SingletonEHan.getInstance();
+        // SingletonEHan instance = SingletonEHan.getInstance();
+        SingletonEnum.instance.whateverMethod();
     }
 }

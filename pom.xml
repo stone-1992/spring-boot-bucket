@@ -15,6 +15,9 @@
         <module>stone-spring-boot-test</module>
         <module>stone-spring-boot-zhcx</module>
         <module>stone-spring-boot-designpattern</module>
+        <module>stone-spring-boot-solr</module>
+        <module>stone-spring-boot-activemq</module>
+        <module>stone-spring-boot-redis</module>
     </modules>
 
 </project>

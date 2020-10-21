@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41418d68-13b1-4c1e-b93e-1073bda61c21" name="Default Changelist" comment="" />
+    <list default="true" id="41418d68-13b1-4c1e-b93e-1073bda61c21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-activemq/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-activemq/src/main/java/com/stone/ActiveMqApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-activemq/src/main/java/com/stone/config/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-activemq/src/main/java/com/stone/consumer/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-activemq/src/main/java/com/stone/controller/JmsTestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-activemq/src/main/java/com/stone/producer/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-activemq/src/main/resources/application-test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-activemq/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-redis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-solr/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-solr/src/main/java/com/stone/StoneSolrApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-solr/src/main/java/com/stone/bean/MessageDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-solr/src/main/java/com/stone/config/CloudSolrConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-solr/src/main/java/com/stone/controller/SolrController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-solr/src/main/java/com/stone/service/SolrBeanService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-solr/src/main/java/com/stone/utils/SolrCloudClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-solr/src/main/resources/application-test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-solr/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-test/src/main/java/com/stone/aop/LogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-test/src/main/java/com/stone/config/AsyncAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-test/src/main/java/com/stone/config/MyProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-test/src/main/java/com/stone/controller/InterceptorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-test/src/main/java/com/stone/filter/FilterConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-test/src/main/java/com/stone/filter/MyFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-test/src/main/java/com/stone/filter/MyFilter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-test/src/main/java/com/stone/inter/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-test/src/main/java/com/stone/inter/MyHandlerInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-test/src/main/java/com/stone/java8/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-test/src/main/java/com/stone/java8/UserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-test/src/main/java/com/stone/thread/MyCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-test/src/main/java/com/stone/thread/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stone-spring-boot-test/src/main/java/com/stone/thread/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stone-spring-boot-designpattern/src/main/java/com/stone/singleton/SingletonRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/stone-spring-boot-designpattern/src/main/java/com/stone/singleton/SingletonRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stone-spring-boot-designpattern/src/main/java/com/stone/singleton/ins/SingletonEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/stone-spring-boot-designpattern/src/main/java/com/stone/singleton/ins/SingletonEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stone-spring-boot-test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stone-spring-boot-test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stone-spring-boot-test/src/main/java/com/stone/controller/StoneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/stone-spring-boot-test/src/main/java/com/stone/controller/StoneController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +65,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1hfmqjzNx9gKPzOwu5r8drXD526" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,8 +82,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/stone-spring-boot-designpattern/src/main/java/com/stone/singleton" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/stone-spring-boot-activemq/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -52,20 +93,22 @@
     <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\1\work\spring-boot-bucket\stone-spring-boot-zhcx\src\main\resources\com.stone.modules.api.mapper" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.stone.singleton" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\workspace\spring-boot-bucket\stone-spring-boot-designpattern\src\main\java\com\stone\singleton" />
-      <recent name="D:\1\work\spring-boot-bucket\stone-spring-boot-zhcx\src\main\java\com\stone\modules\service\crawler" />
-      <recent name="D:\1\work\spring-boot-bucket\stone-spring-boot-zhcx\src\main\resources" />
-      <recent name="D:\1\work\spring-boot-bucket\stone-spring-boot-test\src\main\resources" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.stone.filter" />
       <recent name="com.stone.config" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\1\work\spring-boot-bucket\stone-spring-boot-zhcx\src\main\resources\com.stone.modules.api.mapper" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workspace\spring-boot-bucket\stone-spring-boot-activemq\src\main\resources" />
+      <recent name="F:\workspace\spring-boot-bucket\stone-spring-boot-solr\src\main\java\com\stone\bean" />
+      <recent name="F:\workspace\spring-boot-bucket\stone-spring-boot-solr\src\main\java\com\stone\utils" />
+      <recent name="F:\workspace\spring-boot-bucket\stone-spring-boot-solr\src\main\resources" />
+      <recent name="F:\workspace\spring-boot-bucket\stone-spring-boot-designpattern\src\main\java\com\stone\singleton" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -75,16 +118,42 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SingletonRun">
-    <configuration name="SingletonRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stone.singleton.SingletonRun" />
-      <module name="stone-spring-boot-designpattern" />
+  <component name="RunManager" selected="Spring Boot.ActiveMqApplication">
+    <configuration name="MyCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stone.thread.MyCallable" />
+      <module name="stone-spring-boot-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stone.singleton.*" />
+          <option name="PATTERN" value="com.stone.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stone.thread.MyRunnable" />
+      <module name="stone-spring-boot-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stone.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActiveMqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="stone-spring-boot-activemq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.stone.ActiveMqApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,6 +171,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StoneSolrApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="stone-spring-boot-solr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.stone.StoneSolrApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ZhcxApiscanServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="stone-spring-boot-zhcx" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.stone.ZhcxApiscanServerApplication" />
@@ -111,8 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SingletonRun" />
+        <item itemvalue="Spring Boot.ActiveMqApplication" />
+        <item itemvalue="Spring Boot.StoneSolrApplication" />
         <item itemvalue="Spring Boot.StoneApplication" />
+        <item itemvalue="Application.MyCallable" />
+        <item itemvalue="Application.MyRunnable" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +217,12 @@
       <workItem from="1600767267074" duration="444000" />
       <workItem from="1600769904302" duration="160000" />
       <workItem from="1600770080802" duration="11108000" />
-      <workItem from="1600854611347" duration="613000" />
+      <workItem from="1600854611347" duration="21808000" />
+      <workItem from="1601275043327" duration="37484000" />
+      <workItem from="1602205591690" duration="3798000" />
+      <workItem from="1602578285147" duration="3411000" />
+      <workItem from="1602656520726" duration="2925000" />
+      <workItem from="1602921843921" duration="3185000" />
     </task>
     <servers />
   </component>
@@ -140,26 +230,30 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="94" key="#Project_Structure" timestamp="1600759856444">
+    <state x="586" y="198" key="#Inspections" timestamp="1601016361355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1600759856444" />
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1601016361355" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1601293864710">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1601293864710" />
     <state x="618" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600823098191">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="618" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600823098191" />
-    <state x="765" y="227" key="#com.intellij.ide.util.MemberChooser" timestamp="1600737438558">
+    <state x="765" y="227" key="#com.intellij.ide.util.MemberChooser" timestamp="1601297280242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="227" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600737438557" />
+    <state x="765" y="227" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601297280242" />
     <state x="601" y="390" width="857" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600829068404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="601" y="390" width="857" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1600829068404" />
-    <state x="484" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600680427329">
+    <state x="484" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601367891091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="484" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600680427329" />
+    <state x="484" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601367891091" />
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600678938612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -168,81 +262,86 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="487" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1600744446937" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1600670141342">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601434851251">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600670141342" />
-    <state width="1879" height="339" key="GridCell.Tab.0.bottom" timestamp="1600854558207">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601434851251" />
+    <state width="1511" height="325" key="GridCell.Tab.0.bottom" timestamp="1602656278856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600854558207" />
-    <state width="1879" height="339" key="GridCell.Tab.0.center" timestamp="1600854558207">
+    <state width="1511" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602656278856" />
+    <state width="1511" height="325" key="GridCell.Tab.0.center" timestamp="1602656278856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="339" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600854558207" />
-    <state width="1879" height="339" key="GridCell.Tab.0.left" timestamp="1600854558207">
+    <state width="1511" height="325" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602656278856" />
+    <state width="1511" height="325" key="GridCell.Tab.0.left" timestamp="1602656278856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="339" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600854558207" />
-    <state width="1879" height="339" key="GridCell.Tab.0.right" timestamp="1600854558207">
+    <state width="1511" height="325" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602656278856" />
+    <state width="1511" height="325" key="GridCell.Tab.0.right" timestamp="1602656278856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="339" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600854558207" />
-    <state width="1879" height="339" key="GridCell.Tab.1.bottom" timestamp="1600854558207">
+    <state width="1511" height="325" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602656278856" />
+    <state width="1511" height="325" key="GridCell.Tab.1.bottom" timestamp="1602656278856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600854558207" />
-    <state width="1879" height="339" key="GridCell.Tab.1.center" timestamp="1600854558207">
+    <state width="1511" height="325" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602656278856" />
+    <state width="1511" height="325" key="GridCell.Tab.1.center" timestamp="1602656278856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="339" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600854558207" />
-    <state width="1879" height="339" key="GridCell.Tab.1.left" timestamp="1600854558207">
+    <state width="1511" height="325" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602656278856" />
+    <state width="1511" height="325" key="GridCell.Tab.1.left" timestamp="1602656278856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="339" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600854558207" />
-    <state width="1879" height="339" key="GridCell.Tab.1.right" timestamp="1600854558207">
+    <state width="1511" height="325" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602656278856" />
+    <state width="1511" height="325" key="GridCell.Tab.1.right" timestamp="1602656278856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="339" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600854558207" />
-    <state width="1879" height="339" key="GridCell.Tab.2.bottom" timestamp="1600762377027">
+    <state width="1511" height="325" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602656278856" />
+    <state width="1511" height="325" key="GridCell.Tab.2.bottom" timestamp="1602656278856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="339" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600762377027" />
-    <state width="1879" height="339" key="GridCell.Tab.2.center" timestamp="1600762377027">
+    <state width="1511" height="325" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602656278856" />
+    <state width="1511" height="325" key="GridCell.Tab.2.center" timestamp="1602656278856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="339" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600762377027" />
-    <state width="1879" height="339" key="GridCell.Tab.2.left" timestamp="1600762377026">
+    <state width="1511" height="325" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602656278856" />
+    <state width="1511" height="325" key="GridCell.Tab.2.left" timestamp="1602656278856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="339" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600762377026" />
-    <state width="1879" height="339" key="GridCell.Tab.2.right" timestamp="1600762377027">
+    <state width="1511" height="325" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602656278856" />
+    <state width="1511" height="325" key="GridCell.Tab.2.right" timestamp="1602656278856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="339" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600762377027" />
+    <state width="1511" height="325" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602656278856" />
     <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1600413296704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600413296704" />
-    <state x="491" y="165" key="SettingsEditor" timestamp="1600769946951">
+    <state x="491" y="167" key="SettingsEditor" timestamp="1603074126871">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="491" y="167" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1603074126871" />
+    <state x="491" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601173137898" />
+    <state x="681" y="261" width="609" height="524" key="StructurePopup" timestamp="1601366854303">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="491" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600769946951" />
+    <state x="681" y="261" width="609" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1601366854303" />
     <state x="658" y="262" width="629" height="516" key="find.popup" timestamp="1600680907716">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="658" y="262" width="629" height="516" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600680907716" />
-    <state x="334" y="147" key="new project wizard" timestamp="1600827368754">
+    <state x="334" y="147" key="new project wizard" timestamp="1602921894271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="334" y="147" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1600827368754" />
+    <state x="334" y="147" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1602921894271" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1600659160055">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600659160055" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600679316935">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601294434927">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600679316935" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601294434927" />
   </component>
 </project>
